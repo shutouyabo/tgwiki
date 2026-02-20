@@ -24,7 +24,7 @@
     "vuepress-shared": "2.0.0-rc.52",
     "vuepress-theme-hope": "2.0.0-rc.92"
   },
-  "packageManager": "pnpm@9.6.0",
+  "packageManager": "pnpm@10.9.0",
   "engines": {
     "node": "18.16.0"
   },
